@@ -1,0 +1,44 @@
+body {
+    margin-bottom: 2rem;
+    background-color: #030303;
+    background-image: url("https://help.nflxext.com/0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png");
+   color: white;
+}
+  
+
+.search-card {
+    border: 2px solid #606060;
+    border-radius: 1rem;
+    padding: 2rem;
+    background-color: black;
+
+  
+}
+
+.card-img {
+    height: 15rem;
+    width: 11rem;
+}
+
+.card {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background-color: #000000;
+}
+
+.card-body {
+    padding: 0.5rem 1rem;
+}
+
+.card-title {
+    font-size: 1.6rem;
+}
+
+.movie-date {
+    color: black;
+    margin-top: -0.6rem;
+    font-size: 0.8rem;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
